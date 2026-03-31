@@ -92,5 +92,5 @@ Contributions are welcome. Fork the repository and submit a pull request.
 ---
 
 ## 💡 Author
-Hiya Jain
+Hiya Jain and
 Nayana Dinesh
